@@ -3,7 +3,7 @@ Calculate and visualize the molecular orbitals of water in MATLAB using the Hart
 
  # Summary
  Eric Zhou-PS10paper.pdf - A short paper that summarizes this project <br/>
- Eric Zhou-PS10poster.pdf - Visuals that explain the methods in this project and its results
+ Eric Zhou-PS10poster.pdf - Visuals that explain the methods in this project and its results <br/>
  water_mos_final.png - 3D models of the water molecule
  
  # Code
