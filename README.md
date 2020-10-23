@@ -1,5 +1,6 @@
 # The Molecular Orbitals of Water
-Calculate and visualize the molecular orbitals of water in MATLAB using the Hartree-Fock algorithm (winner of the 2016 Best Final Project prize in Harvard PS 10: Quantum and Statistical Foundations of Chemistry)
+Calculate and visualize the molecular orbitals of water in MATLAB using the Hartree-Fock algorithm <br/>
+Winner of the 2016 Best Final Project prize in Harvard PS 10: Quantum and Statistical Foundations of Chemistry
 
  # Summary
  Eric Zhou-PS10paper.pdf - A short paper that summarizes this project <br/>
